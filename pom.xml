@@ -4,7 +4,7 @@
 
     <groupId>com.rost</groupId>
     <artifactId>archetype_test</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>database</module>
         <module>service</module>
